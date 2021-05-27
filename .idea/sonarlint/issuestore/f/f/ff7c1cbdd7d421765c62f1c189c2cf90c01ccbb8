@@ -1,0 +1,17 @@
+
+d
+java:S1192"NDefine a constant instead of duplicating this literal "Brayan GÃ³mez" 3 times.(Àÿ»‹
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¹€ºÚ
+N
+java:S1197"8Move the array designator from the variable to the type.(‚é’
+S
+java:S1197"8Move the array designator from the variable to the type.(Î İÙşÿÿÿÿ
+J
+java:S6212"/Declare this local variable with "var" instead.(ÏêœÇşÿÿÿÿ
+J
+java:S6212"/Declare this local variable with "var" instead.(ÖÂàëşÿÿÿÿ
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(»Äõšÿÿÿÿÿ
+J
+java:S6212."/Declare this local variable with "var" instead.(›®Òÿÿÿÿÿ
+S	java:S1068"9Replace this use of System.out or System.err by a logger.(üºìÆıÿÿÿÿ
+N	java:S1069"9Replace this use of System.out or System.err by a logger.(Úôù
